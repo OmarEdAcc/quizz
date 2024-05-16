@@ -1,0 +1,29 @@
+html {
+  background-image: url(img/Edmonton.jpg);
+}
+h1 {
+  color: gold;
+  font-size: 46px;
+}
+h2 {
+  font-size: 30px;
+  color: goldenrod;
+}
+p {
+  font-size: 20px;
+  color: rgb(105, 79, 14);
+}
+body {
+  text-align: center;
+  width: 800px;
+  height: 880px;
+  background-color: antiquewhite;
+  margin: auto;
+}
+p2 {
+  font-size: 29px;
+}
+btns {
+  font-size: 60px;
+  border: solid 2px white;
+}
